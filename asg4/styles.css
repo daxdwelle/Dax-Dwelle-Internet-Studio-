@@ -27,6 +27,6 @@ h1, h2 {
 	  font-family: "DM Serif Text", serif;
 }
 
-p, ul, table {
+p, ul, table, a {
 	 font-family: "Quicksand", sans-serif;
 }
