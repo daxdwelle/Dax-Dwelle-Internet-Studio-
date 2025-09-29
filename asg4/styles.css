@@ -23,3 +23,10 @@
        
 
  Insert all your glorious CSS styles below! */
+h1, h2 {
+	  font-family: "Libre Bodoni", serif;
+}
+
+p {
+	 font-family: "Urbanist", sans-serif;
+}
