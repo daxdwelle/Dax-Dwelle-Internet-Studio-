@@ -24,9 +24,14 @@
 
  Insert all your glorious CSS styles below! */
 h1, h2 {
-	  font-family: "Libre Bodoni", serif;
+  font-family: "Caudex", serif;
+  font-weight: 700;
+  font-style: normal;;
 }
 
 p {
-	 font-family: "Urbanist", sans-serif;
+	   font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
