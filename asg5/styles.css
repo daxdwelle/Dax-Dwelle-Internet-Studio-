@@ -34,3 +34,9 @@ h1, h2, h3 {
   font-weight: 700;
   font-style: normal;
 }
+h1, p {
+      color: blue 
+}
+li {
+      color: navy
+}
