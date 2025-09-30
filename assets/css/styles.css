@@ -4,7 +4,7 @@ h1 {
   font-family: "Bree Serif", serif;
   font-weight: 400;
   font-style: normal;
-  color: lavender;
+  color: DarkBlue;
 }
 
 
@@ -15,5 +15,5 @@ p {
   font-style: normal;
   font-variation-settings:
     "MONO" 1;
-  color: lavender;
+  color: DarkBlue;
 }
