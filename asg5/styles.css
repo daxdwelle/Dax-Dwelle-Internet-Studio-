@@ -23,3 +23,14 @@
        
 
  Insert all your glorious CSS styles below! */
+p, ul, form {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1, h2, h3 {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
