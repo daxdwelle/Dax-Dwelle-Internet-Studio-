@@ -1,6 +1,6 @@
 /* styles.css */
 
-h1 {
+h1, h2 {
   font-family: "Bree Serif", serif;
   font-weight: 400;
   font-style: normal;
@@ -8,7 +8,7 @@ h1 {
 }
 
 
-p {
+p, li {
   font-family: "Sono", monospace;
   font-optical-sizing: auto;
   font-weight: <weight>;
