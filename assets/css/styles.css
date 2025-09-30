@@ -7,3 +7,11 @@ h1 {
 }
 
 
+p {
+  font-family: "Sono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "MONO" 1;
+}
