@@ -41,6 +41,7 @@ p {
 body {
       background-image: url(images/wheat.webp);
       font-size: 16px; 
+      /*base font size*/
 }
 img {
       float: right; 
