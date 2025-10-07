@@ -41,3 +41,6 @@ p {
 body {
       background-image: url(images/wheat.webp);
 }
+img {
+      float: right; 
+}
