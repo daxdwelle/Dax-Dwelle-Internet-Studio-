@@ -34,7 +34,7 @@ h1, h2, h3 {
 p {
  font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 600;
   font-style: normal;
 }
 
