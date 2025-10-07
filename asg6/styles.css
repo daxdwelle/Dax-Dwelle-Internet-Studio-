@@ -30,3 +30,10 @@ h1, h2, h3 {
   font-weight: <weight>;
   font-style: normal;
 }
+
+p {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
