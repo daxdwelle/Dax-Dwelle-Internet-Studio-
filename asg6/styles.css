@@ -40,18 +40,22 @@ p {
 
 body {
       background-image: url(images/wheat.webp);
+      font-size: 16px; 
 }
 img {
       float: right; 
 }
 h1 {
       color: #fad1ac;
+       font-size: 2.5em; 
 }
 h2 {
       color: #b8a3b4
+       font-size: 1.75em; 
 }
 h3 {
       color: #76a1b8
+      font-size: 1em; 
 }
 p {
       color: #cc8497
