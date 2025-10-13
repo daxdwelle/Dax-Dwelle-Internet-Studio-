@@ -55,3 +55,7 @@ aside {
         font-style: italic;
         background-color: lightgray;
 }
+img {
+      width: 150;
+      height: auto;
+}
