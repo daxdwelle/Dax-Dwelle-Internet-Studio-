@@ -15,3 +15,11 @@
   font-weight: 400;
   src: url('../fonts/cascadia-code-v5-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+h1, h2, h3 {
+   font-family: 'Alegraya Sans';
+}
+
+p, ul {
+   font-family: 'Cascadia Code';
+}
