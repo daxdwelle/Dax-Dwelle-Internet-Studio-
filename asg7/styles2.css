@@ -39,3 +39,7 @@ p {
    font-family: 'Cascadia Code';
   font-size: 1em; 
 }
+.text-box {
+  border: 2px solid-black; 
+  
+}
