@@ -21,6 +21,7 @@ h1, h2, h3 {
 
 body {
   font-size: 20px; 
+  /*base font size*/
   background-image: url(images/more-leaves-on-green.png);
 }
 h1 {
@@ -38,6 +39,8 @@ h3 {
 p {
    font-family: 'Cascadia Code';
   font-size: 1em; 
+  line-height: 1.3;
+  /*adjust leading*/
 }
 div {
   border: 5px solid black; 
@@ -45,4 +48,5 @@ div {
   margin: 5px; 
   width: fit-content; 
   height: fit-content; 
+  /*add text box*/
 }
