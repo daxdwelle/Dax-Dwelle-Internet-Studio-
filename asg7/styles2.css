@@ -40,7 +40,7 @@ p {
   font-size: 1em; 
 }
 div {
-  border: 10px green; 
+  border: 10px; 
   padding: 5px; 
   margin: 5px; 
   width: fit-content; 
