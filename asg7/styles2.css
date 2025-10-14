@@ -1,10 +1,9 @@
-/* alegreya-sans-700 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Alegreya Sans';
+  font-family: 'Anek Devanagari';
   font-style: normal;
-  font-weight: 700;
-  src: url('../fonts/alegreya-sans-v26-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  font-weight: 400;
+  src: url('fonts/anek-devanagari-v17-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* cascadia-code-regular - latin */
@@ -17,7 +16,7 @@
 }
 
 h1, h2 {
-     font-family: 'Alegreya Sans';
+     font-family: 'Anek Devanagari';
 }
 
 p, ul {
