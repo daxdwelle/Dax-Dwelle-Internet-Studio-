@@ -141,9 +141,11 @@ small,
 }
 h1, h2 {
       font-family: 'Aoboshi One';
+      color: #D4F2D2;
 }
 p, li {
       font-family: 'Anaheim';
+      color: #BEB7DF;
 }
 body {
       background-color: #ABA9BF;
