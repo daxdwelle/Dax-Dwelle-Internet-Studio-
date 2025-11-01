@@ -41,6 +41,14 @@
   src: url('fonts/alegreya-sc-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+p, ul {
+      font-family: 'Anek Telugu';
+}
+
+h1, h2 {
+        font-family: 'Alegreya SC';
+}
+
 nav ul {
   list-style: none;
   display: flex;  
