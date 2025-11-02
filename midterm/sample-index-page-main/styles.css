@@ -69,6 +69,8 @@ nav ul li {
 
 .hero image {
  position: relative; 
+ margin: 0;
+ padding: 0;
 }
 
 .gotham {
