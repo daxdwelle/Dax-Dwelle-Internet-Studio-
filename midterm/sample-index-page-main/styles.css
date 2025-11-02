@@ -24,6 +24,11 @@
 
  Insert all your glorious CSS styles below! */
 /* anek-telugu-regular - latin */
+body {
+      margin:0;
+      padding:0;
+}
+
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Anek Telugu';
