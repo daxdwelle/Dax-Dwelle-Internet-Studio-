@@ -69,6 +69,7 @@ nav ul li {
 
 .hero image {
  position: relative; 
+ width: 100vw;
 }
 
 .gotham {
