@@ -44,7 +44,7 @@
 
 p, ul {
       font-family: 'Anek Telugu'
-      margin: 10px;
+     
 }
 
 h1 {
@@ -53,7 +53,7 @@ h1 {
 
 h1, h2 {
         font-family: 'Alegreya SC';
-      padding: 10px;
+     
 }
 
 nav ul {
@@ -73,14 +73,10 @@ nav ul li {
 .hero image {
  position: relative; 
  width: 100vw;
- overflow: hidden;
- margin:0;
- padding:0;
 }
 
 .gotham {
-  width: 100vw;
-  display: block; 
+
 }
 
 .title {
