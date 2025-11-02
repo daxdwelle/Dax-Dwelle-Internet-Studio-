@@ -69,12 +69,10 @@ nav ul li {
 
 .hero image {
  position: relative; 
- margin: 0;
- padding: 0;
 }
 
 .gotham {
-  width: 100%;
+  width: 100vw;
   display: block; 
 }
 
