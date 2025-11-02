@@ -67,6 +67,14 @@ nav ul li {
   border-radius: 5px; 
 }
 
+.hero image {
+ position: relative; 
+}
+
 .gotham {
   width: 100%;
+}
+
+.title {
+      position: absolute; 
 }
