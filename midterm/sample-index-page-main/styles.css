@@ -96,5 +96,9 @@ nav ul li {
 }
 
 .planyourtrip {
-      display: inlineblock;  
+      display: inline-block;  
+}
+
+.indextitle {
+text-align: center;
 }
