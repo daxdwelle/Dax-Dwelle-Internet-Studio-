@@ -102,7 +102,7 @@ nav ul li {
       display: inline-block;  
        margin-top: -370px;
       position: absolute;
-      background-color: black
+      background-color: black;
       color: white;
       font-size: 20px; 
 }
