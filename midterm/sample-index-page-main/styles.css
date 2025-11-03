@@ -96,5 +96,7 @@ nav ul li {
 }
 
 .planyourtrip {
+      display: flex; 
       justify-content: center;
+      allign-items: center;
 }
