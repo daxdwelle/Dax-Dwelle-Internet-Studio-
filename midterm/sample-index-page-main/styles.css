@@ -84,4 +84,11 @@ nav ul li {
       top: 10%;
       left: 40%;
       color: white;
+      opacity: 0;
+      animation: fadeIn ease-in 2s forwards;
+}
+
+@keyframes fadeIn {
+      from {opacity:0;}
+      to {opacity:1;}
 }
