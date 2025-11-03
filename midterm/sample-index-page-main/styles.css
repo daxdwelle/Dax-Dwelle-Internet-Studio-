@@ -87,6 +87,7 @@ nav ul li {
       color: white;
       opacity: 0;
       animation: fadeIn ease-in 2s forwards;
+      font-size: 100px;
 }
 
 @keyframes fadeIn {
