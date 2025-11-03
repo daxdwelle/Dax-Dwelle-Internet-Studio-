@@ -94,7 +94,3 @@ nav ul li {
       from {opacity:0;}
       to {opacity:1;}
 }
-.button {
-       position: absolute; 
-       left: 100px; 
-}
