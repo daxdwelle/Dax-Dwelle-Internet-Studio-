@@ -70,7 +70,7 @@ nav ul li {
   border-radius: 5px; 
 }
 
-.hero image {
+.heroimage {
  position: relative; 
  width: 100vw;
 }
@@ -95,6 +95,6 @@ nav ul li {
       to {opacity:1;}
 }
 
-.plan your trip {
-      position: center;
+.planyourtrip {
+      justify-content: center;
 }
