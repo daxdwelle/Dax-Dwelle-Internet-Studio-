@@ -83,7 +83,7 @@ nav ul li {
 .title {
       position: absolute; 
       top: 10%;
-      left: 40%;
+      left: 10%;
       color: white;
       opacity: 0;
       animation: fadeIn ease-in 2s forwards;
