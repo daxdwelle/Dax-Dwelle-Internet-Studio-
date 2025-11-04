@@ -44,6 +44,8 @@
 
 body {
       background-image: url("images/bats background.jpg");
+      padding: 0;
+      margin: 0;
 }
 
 p, ul, .planyourtrip, form {
