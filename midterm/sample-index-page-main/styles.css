@@ -190,5 +190,7 @@ footer {
       margin-left: 15px;
       background-color: grey;
       color: white;
+      text-align: center;
+      padding: 3px; 
 }
 
