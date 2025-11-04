@@ -75,7 +75,7 @@ nav ul {
   flex-direction: row;
   gap: 20px; 
   background-color: black;
-  padding: 30px;
+  padding: 0px;
   margin: 30px;
 }
 
