@@ -48,6 +48,7 @@ body {
 
 p, ul, .planyourtrip {
       font-family: 'Anek Telugu'
+      color: white;
      
 }
 
@@ -57,6 +58,7 @@ h1 {
 
 h1, h2 {
         font-family: 'Alegreya SC';
+      color: white;
      
 }
 
