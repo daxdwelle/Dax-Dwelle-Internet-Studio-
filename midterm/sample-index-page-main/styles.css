@@ -205,5 +205,5 @@ a:visited {
 
 .dining-images, .dining-headers {
       display: inline-block;
-      vertical-align: right;
+      vertical-align: left;
 }
