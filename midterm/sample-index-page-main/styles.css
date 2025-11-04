@@ -112,20 +112,13 @@ nav ul li {
 .planyourtrip {
       position: absolute;
       display: inline-block;  
-       margin-top: -370px;
-      padding:0;
-      position: absolute;
+      margin-top: -370px;
+      padding: 0;
       background-color: black;
       color: white;
       font-size: 20px; 
-      left: 50%;     
       text-align: center;
-      border-radius: 5px;
-      text-align: center;
-      
+      border-radius: 5px;     
 }
 
-/*.indexbutton {
-      text-align: center;
-     
-}*/
+\
