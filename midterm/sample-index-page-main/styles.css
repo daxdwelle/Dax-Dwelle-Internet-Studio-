@@ -67,12 +67,12 @@ nav ul {
   display: flex;  
   justify-content: center;
   flex-direction: row;
-  gap: 20px; 
+  gap: 40px; 
 }
 
 nav ul li {
   background-color: yellow;
-  padding: 25px;
+  padding: 5px;
   border-radius: 5px; 
 }
 
