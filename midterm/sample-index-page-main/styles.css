@@ -227,16 +227,20 @@ a:visited {
 .wayne-tower-image {
       float: left;
       margin-right: 20px; 
+      margin-left: 20px; 
 }
 
 .circus-container {
-      margin: 100px auto;
+      float: left;
+      margin-right: 20px;
+       margin-left: 20px; 
       
 }
 
 .circus-image {
       float: left;
       margin-right: 20px; 
+       margin-left: 20px; 
 }
 
 .see-more {
