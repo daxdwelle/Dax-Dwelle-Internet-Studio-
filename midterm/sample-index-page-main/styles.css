@@ -217,6 +217,7 @@ a:visited {
 .riddler-trophy-image {
       float: left;
       margin-right: 20px; 
+        margin-left: 20px; 
 }
 
 .wayne-tower-container {
@@ -231,9 +232,8 @@ a:visited {
 }
 
 .circus-container {
-      float: left;
-      margin-right: 20px;
-       margin-left: 20px; 
+      margin: 100px auto;
+       
       
 }
 
