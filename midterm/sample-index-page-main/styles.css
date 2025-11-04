@@ -224,3 +224,12 @@ a:visited {
       margin-right: 20px; 
 }
 
+.circus-container {
+      margin: 100px auto;
+      
+}
+
+.circus-image {
+      float: left;
+      margin-right: 20px; 
+}
