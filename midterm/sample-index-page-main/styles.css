@@ -138,6 +138,7 @@ nav ul li {
 .things-to-do {
       width: 200px;
       height: 200px;
-      
+      float: left;
+      object-fit: cover;
 }
 
