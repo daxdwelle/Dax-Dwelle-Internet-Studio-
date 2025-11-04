@@ -43,7 +43,7 @@
 }
 
 body {
-      background-image: url(images/bats background.jpg);
+      background-image: url("images/bats background.jpg");
 }
 
 p, ul, .planyourtrip {
