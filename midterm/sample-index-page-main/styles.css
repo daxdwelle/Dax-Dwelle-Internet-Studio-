@@ -188,5 +188,7 @@ nav ul li {
 footer {
       margin-right: 15px;
       margin-left: 15px;
+      background-color: grey;
+      color: white;
 }
 
