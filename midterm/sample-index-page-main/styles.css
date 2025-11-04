@@ -137,12 +137,18 @@ nav ul li {
 
 .iceberg {
       float: right;
+      margin-right: 10px; 
+      margin-bottom: 10px; 
 }
 
 .diner {
       float: right;
+      margin-right: 10px; 
+      margin-bottom: 10px; 
 }
 
 .batburger {
       float: right;
+      margin-right: 10px; 
+      margin-bottom: 10px; 
 }
