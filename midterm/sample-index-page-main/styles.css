@@ -97,7 +97,7 @@ nav ul li {
 .title {
       position: absolute; 
       top: 10%;
-      left: 50%;
+      text-align: center;
       color: white;
       opacity: 0;
       animation: fadeIn ease-in 2s forwards;
@@ -121,6 +121,7 @@ nav ul li {
       left: 50%;     
       text-align: center;
       border-radius: 5px;
+      text-align: center;
       
 }
 
