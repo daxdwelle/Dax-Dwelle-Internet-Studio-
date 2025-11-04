@@ -68,6 +68,7 @@ nav ul {
   justify-content: center;
   flex-direction: row;
   gap: 20px; 
+  background-color: black;
 }
 
 nav ul li {
