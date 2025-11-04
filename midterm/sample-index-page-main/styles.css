@@ -208,3 +208,8 @@ a:visited {
       margin: 100px auto;
       
 }
+
+.riddler-trophy-image {
+      float: left;
+      margin-right: 20px; 
+}
