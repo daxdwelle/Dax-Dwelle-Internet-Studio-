@@ -46,7 +46,7 @@ body {
       background-image: url("images/bats background.jpg");
 }
 
-p, ul, .planyourtrip {
+p, ul, .planyourtrip, form {
       font-family: 'Anek Telugu';
       color: white;
      
