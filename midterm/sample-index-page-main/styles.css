@@ -202,3 +202,8 @@ a:link {
 a:visited {
       color: slategrey;
 }
+
+.dining-images, .dining-headers {
+      display: inline-block;
+      vertical-align: middle;
+}
