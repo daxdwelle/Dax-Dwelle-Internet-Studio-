@@ -155,24 +155,24 @@ nav ul li {
 
 .text-width {
       width: 400px;
-      padding: 10px; 
+      padding: 5px; 
 }
 
 .dining-images {
       margin-right: 25px; 
 }
 .dining-headers {
-      padding: 10px; 
+      padding: 5px; 
 }
 
 .book-a-table {
       position: absolute;
       display: inline-block:
-      padding: 0;
+      padding: 5px;
       background-color: black;
       color: white;
       font-size: 20px; 
       text-align: center;
       border-radius: 5px;     
-      left: 20px;
+      left: 50px;
 }
