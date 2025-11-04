@@ -152,3 +152,8 @@ nav ul li {
       margin-right: 10px; 
       margin-bottom: 10px; 
 }
+
+.text-width {
+      width: 400px;
+      padding: 10px; 
+}
