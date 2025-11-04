@@ -247,7 +247,7 @@ a:visited {
       bottom:  20px; 
 }
 
-input [type=text], select, textarea {
+input[type=text], select, textarea {
       width:100%;
       padding: 10px;
       border: 1px solid #ccc;
@@ -257,7 +257,7 @@ input [type=text], select, textarea {
       margin-bottom: 10px;
 }
 
-input [type=submit] {
+input[type=submit] {
       background-color: yellow;
       color: black;
       padding: 10px 20px;
