@@ -203,9 +203,4 @@ a:visited {
       color: slategrey;
 }
 
-.bat-burger {
-      display: flex;
-      align-items: flex-start;
-      gap: 30px;
-      margin: 60px 0;
-}
+
