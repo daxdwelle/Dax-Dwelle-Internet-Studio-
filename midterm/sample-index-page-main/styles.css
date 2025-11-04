@@ -81,6 +81,11 @@ p {
       margin-left: 15px;
 }
 
+li {
+      font-size: 20px; 
+}
+
+
 nav ul {
   list-style: none;
   display: flex;  
