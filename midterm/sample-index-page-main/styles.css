@@ -58,6 +58,10 @@ h1 {
       text-align: center;
 }
 
+.dining-title {
+      font-size: 30px; 
+}
+
 h2 {
       margin-right: 15px;
       margin-left: 15px;
@@ -179,6 +183,4 @@ nav ul li {
       bottom:  20px; 
 }
 
-.dining-title {
-      font-size: 30px; 
-}
+
