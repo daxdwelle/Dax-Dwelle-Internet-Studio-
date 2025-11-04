@@ -58,9 +58,7 @@ h1 {
       text-align: center;
 }
 
-.dining-title {
-      font-size: 30px; 
-}
+
 
 h2 {
       margin-right: 15px;
@@ -71,6 +69,10 @@ h1, h2 {
         font-family: 'Alegreya SC';
       color: white;
      
+}
+
+.dining-title {
+      font-size: 30px; 
 }
 
 p {
