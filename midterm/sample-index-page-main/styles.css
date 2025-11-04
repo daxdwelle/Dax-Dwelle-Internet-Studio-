@@ -203,7 +203,7 @@ a:visited {
       color: slategrey;
 }
 
-restaurant {
+.restaurant {
       display: flex;
       align-items: center;
       gap: 20px;
