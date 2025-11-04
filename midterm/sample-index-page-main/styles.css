@@ -99,6 +99,7 @@ nav ul li {
       position: absolute; 
       top: 10%;
       text-align: center;
+      width: 100%;
       color: white;
       opacity: 0;
       animation: fadeIn ease-in 2s forwards;
