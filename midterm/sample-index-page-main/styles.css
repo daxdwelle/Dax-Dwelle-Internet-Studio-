@@ -147,51 +147,19 @@ nav ul li {
       left: 45%;
 }
 
-.iceberg {
-      float: right;
-      margin-right: 10px; 
-      margin-bottom: 10px; 
-}
 
-.diner {
-      float: right;
-      margin-right: 10px; 
-      margin-bottom: 10px; 
-}
 
-.batburger {
-      float: right;
-      margin-right: 10px; 
-      margin-bottom: 10px; 
-}
 
-.text-width {
-      width: 400px;
-      padding: 5px; 
-}
 
-.dining-images {
-      float: right;
-      
-}
-.dining-headers {
-      padding: 5px; 
-      font-size: 35px;
-      clear: right;
-}
 
-.book-a-table {
-      position: relative;
-      display: inline-block;
-      padding: 5px;
-      background-color: black;
-      color: white;
-      font-size: 20px; 
-      text-align: center;
-      border-radius: 5px;     
-      left: 80px;
-      bottom:  20px; 
-}
+
+
+
+
+
+
+
+
 
 footer {
       
@@ -303,24 +271,8 @@ label {
       bottom:  20px; 
 }
 
-.iceberg-container {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      margin: 50px;
-      gap: 20px; 
-}
 
-.iceberg-text {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
-      
-}
 
-.iceberg-text h2 {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
-      
-}
+
+
+
