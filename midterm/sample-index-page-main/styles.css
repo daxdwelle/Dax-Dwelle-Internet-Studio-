@@ -173,7 +173,7 @@ nav ul li {
 .dining-images {
       margin-right: 25px; 
       position: relative;
-      margin-top: 60px;
+      top: 0;
       
 }
 .dining-headers {
