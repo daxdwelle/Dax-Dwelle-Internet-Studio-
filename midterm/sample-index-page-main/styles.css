@@ -311,3 +311,9 @@ label {
       gap: 20px; 
 }
 
+.iceberg text {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      
+}
