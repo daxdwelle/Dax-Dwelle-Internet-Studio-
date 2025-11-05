@@ -291,7 +291,7 @@ label {
 .iceberg-container {
       margin: 50px 0;
       justify-content: space-between;
-      align-items: center;
+      align-items: flex-start;
       display:flex;
 }
 
