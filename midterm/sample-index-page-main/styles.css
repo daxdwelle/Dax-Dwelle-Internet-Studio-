@@ -179,6 +179,7 @@ nav ul li {
 .dining-headers {
       padding: 5px; 
       font-size: 35px;
+      clear: right;
 }
 
 .book-a-table {
