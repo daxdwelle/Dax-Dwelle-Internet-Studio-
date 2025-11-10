@@ -149,3 +149,9 @@ p {
 h1 {
   font-family: 'Sonsie One';
 }
+
+.container {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
