@@ -142,4 +142,10 @@ small,
 .text-small {
   font-size: 0.64em;
 }
-              
+
+p {
+ font-family: 'Hind';
+}
+h1 {
+  font-family: 'Sonsie One';
+}
