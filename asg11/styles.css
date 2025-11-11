@@ -289,4 +289,5 @@ display: flex;
 img {
       width: 200px;
       height: 350px;
+      object-fit: contain;
 }
