@@ -165,3 +165,9 @@ display: flex;
       flex-direction: column;
       justify-content: center;
 }
+
+.member-1-heading {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+}
