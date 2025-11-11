@@ -214,6 +214,7 @@ display: flex;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      max-width: 400px;
 }
 
 .member-2-heading {
@@ -241,6 +242,7 @@ display: flex;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      max-width: 400px;
 }
 
 .member-3-heading {
@@ -268,6 +270,7 @@ display: flex;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      max-width: 400px;
 }
 
 .member-4-heading {
@@ -295,6 +298,7 @@ display: flex;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      max-width: 400px;
 }
 
 .member-5-heading {
