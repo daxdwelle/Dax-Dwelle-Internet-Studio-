@@ -185,7 +185,7 @@ display: flex;
       display: flex;
       flex-direction: column;
       justify-content: center;
-       max-width: 30px;
+       max-width: 300px;
 }
 
 .member-1-heading {
