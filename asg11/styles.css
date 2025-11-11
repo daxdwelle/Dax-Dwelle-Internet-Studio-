@@ -154,9 +154,8 @@ h1, h2 {
 .container-1 {
 display: flex;
   gap: 20px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: stretch;
-  align-content: stretch;
+  align-items: center;
   flex-direction: row;
 }
