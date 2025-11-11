@@ -156,6 +156,8 @@ p {
 
 h1 {
      color: #ffb703;
+      text-decoration: underline; 
+      text-decoration-color: #ffb703;
 }
 
 h1, h2 {
