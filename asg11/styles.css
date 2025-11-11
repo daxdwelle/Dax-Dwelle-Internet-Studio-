@@ -153,6 +153,11 @@ body {
 p {
  font-family: 'Hind';
 }
+
+h1 {
+     color: #ffb703;
+}
+
 h1, h2 {
   font-family: 'Sonsie One';
 }
