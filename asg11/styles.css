@@ -151,7 +151,7 @@ h1, h2 {
   font-family: 'Sonsie One';
 }
 
-.container {
+.container-1 {
 display: flex;
   gap: 20px;
   flex-wrap: nowrap;
