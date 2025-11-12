@@ -40,6 +40,10 @@ img {
       object-fit: cover;
 }
 
+.intro {
+       text-align: center;
+}
+
 .grid {
       display: grid;
       gap: 10px;
