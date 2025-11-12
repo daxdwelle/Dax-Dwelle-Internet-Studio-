@@ -29,7 +29,7 @@ body {
 }
 
 
-.row img {
+img {
       width: 259;
       height: 384;
       object-fit: cover;
