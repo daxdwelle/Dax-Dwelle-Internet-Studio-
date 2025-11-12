@@ -46,4 +46,7 @@ img {
       grid-template-columns: repeat(4,1fr); 
 }
 
-
+.almost-famous {
+      display: flex; 
+      flex-direction: column;
+}
