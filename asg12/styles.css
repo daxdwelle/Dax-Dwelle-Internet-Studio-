@@ -31,6 +31,7 @@ body {
        align-items: center;
      /*  background-image: url("images/absolute-cinema.webp"); */
        background-image: url("images/old-cinema.jpg"); 
+      background-repeat: no-repat; 
 }
 
 
