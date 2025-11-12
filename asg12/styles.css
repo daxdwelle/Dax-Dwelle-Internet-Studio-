@@ -28,6 +28,11 @@ body {
       
 }
 
+img {
+      width: 259;
+      height: 384;
+}
+
 .row {
       display: flex;
       gap: 10px;
@@ -36,7 +41,4 @@ body {
       justify-content: center;
 }
 
-img {
-      width: 259;
-      height: 384;
-}
+
