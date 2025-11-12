@@ -30,8 +30,10 @@ body {
 
 
 .container img {
-      width: 259;
-      height: 384;
+      /*width: 259;
+      height: 384;*/
+      width: 100%;
+      height: auto;
       object-fit: cover;
 }
 
