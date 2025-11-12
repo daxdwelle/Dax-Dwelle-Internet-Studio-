@@ -23,7 +23,7 @@
        
 
  Insert all your glorious CSS styles below! */
-h1 {
+h1, h2 {
       text-align: center;
 }
 
