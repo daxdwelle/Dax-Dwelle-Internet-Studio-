@@ -29,7 +29,8 @@ h1, h2 {
 
 body {
        align-items: center;
-       background-image: url("images/absolute-cinema.webp"); 
+     /*  background-image: url("images/absolute-cinema.webp"); */
+       background-image: url("images/old-cinema.jpg"); 
 }
 
 
