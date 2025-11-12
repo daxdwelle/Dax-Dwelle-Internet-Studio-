@@ -25,6 +25,7 @@
  Insert all your glorious CSS styles below! */
 body {
        align-items: center;
+      display: flex;
 }
 
 .row {
