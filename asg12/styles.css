@@ -99,6 +99,10 @@ img {
       text-align: center; 
 }
 
+.item h2 {
+      margin:0;
+}
+
 .almost-famous {
       display: flex; 
       flex-direction: column;
