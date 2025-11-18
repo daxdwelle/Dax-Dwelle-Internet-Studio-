@@ -86,8 +86,8 @@ img {
       margin-bottom: 10px; 
       place-items: center; 
       place-content: center; 
-      
       grid-template-columns: repeat(4,1fr); 
+      grid-auto-rows: 1fr;
 }
 
 .item {
