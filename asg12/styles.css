@@ -36,6 +36,10 @@ h1, h2 {
       text-align: center;
 }
 
+p {
+      font-family: 'Anonymous Pro';
+}
+
 body {
        align-items: center;
      /*  background-image: url("images/absolute-cinema.webp"); */
