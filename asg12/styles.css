@@ -86,32 +86,32 @@ img {
       margin-bottom: 10px; 
       place-items: center; 
       place-content: center; 
-      grid-template-columns: repeat(3,1fr); 
+      
       grid-template-columns: repeat(4,1fr); 
 }
 
 .almost-famous {
       display: flex; 
       flex-direction: column;
-      gap: 10px; 
+    
 }
 
 .spider-man {
       display: flex;
       flex-direction: column;
-       gap: 10px; 
+        
 }
 
 .zodiac {
       display: flex;
       flex-direction: column;
-       gap: 10px; 
+    
 }
 
 .donnie-darko {
       display: flex;
       flex-direction: column;
-       gap: 10px; 
+     
 }
 
 .blade-runner {
