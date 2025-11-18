@@ -65,6 +65,7 @@ h1, h2 {
 p {
       font-family: 'Anonymous Pro';
       color: white; 
+      line-height: 125%;
 }
 
 body {
