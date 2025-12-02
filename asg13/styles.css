@@ -48,6 +48,10 @@ li {
 	
 }
 
+img {
+	width: 687px; 
+	height: 313px;
+}
 
 .career {
 	  display: flex;
