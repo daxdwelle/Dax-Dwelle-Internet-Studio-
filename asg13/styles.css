@@ -1,4 +1,21 @@
 /* Some selectors to get you started */
+/* amiko-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Amiko';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/amiko-v15-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* allerta-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Allerta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/allerta-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 body {
  background-image: url(images/canadian-dollar.webp);
