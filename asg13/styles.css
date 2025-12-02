@@ -29,12 +29,13 @@ h1 {
 text-align: center; 
 	color: white; 
 	font-size: 75px; 
-
+	font-family: 'Allerta';
 }
 
 h2 {
     font-size: 50px; 
 	color: #fcf9ec;
+	font-family: 'Allerta';
 }
 
 h3 {
@@ -48,10 +49,12 @@ text-align: center;
 	margin-left: 300px;  /*line text up with images*/
 	margin-right: 300px;
 	font-size: 20px; 
+	font-family: 'Amiko';
 }
 
 a {
 background-color: #12d3cf;
+	font-family: 'Amiko';
 
 }
 
