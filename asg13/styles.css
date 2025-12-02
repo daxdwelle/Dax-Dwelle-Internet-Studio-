@@ -1,7 +1,7 @@
 /* Some selectors to get you started */
 
 body {
-
+ background-image: url(images/more-leaves-on-green.png);
 
 }
 
@@ -25,7 +25,7 @@ h3 {
 
 p {
 text-align: center;
-	margin-left: 350px;
+	margin-left: 350px;  /*line text up with images*/
 	margin-right: 350px;
 }
 
